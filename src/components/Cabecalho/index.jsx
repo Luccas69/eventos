@@ -4,7 +4,7 @@ export default function Cabecalho() {
 
     return (
         <header className={styles.header}>
-            <h1>Meu site</h1>
+            <h1>Plataforma de Eventos</h1>
         </header>
     )
 };
