@@ -1,0 +1,9 @@
+.ListCard {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.ListCard > div {
+    max-width: 300px;
+}
