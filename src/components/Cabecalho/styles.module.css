@@ -1,0 +1,11 @@
+.header {
+    background-color: beige;
+    color: brown;
+    display: flex;
+    flex-direction: center;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    padding: 1rem;
+}
