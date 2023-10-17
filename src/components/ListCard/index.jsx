@@ -1,4 +1,4 @@
-import axios from 'axios'
+import axios from "axios"
 import { useEffect, useState } from 'react'
 import Card from "@/components/Card "
 import styles from './styles.module.css'
@@ -9,10 +9,10 @@ export default function ListCard() {
     const [eventos, setEventos] = useState([])
 
     useEffect(() => {
-        axios.get('http://localhost:3000/api/eventos')
-            .then(response => setEventos(response.data))
-    }
-        , [])
+
+        axios.get('http://localhost:3000/eventos')
+            .then(resultado => setEventos(resultado.data))
+    }, [])
 
     function formatarData(data) {
         const [ano, mes, dia] = data.split('-')

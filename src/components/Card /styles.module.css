@@ -1,4 +1,4 @@
-.card {
+.Card {
     margin: 10px;
     padding: 10px;
     border: 8pix solid brown;
@@ -7,7 +7,7 @@
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
 }
 
-.card:hover {
+.Card:hover {
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
 }
 
@@ -17,12 +17,12 @@
     color: brown;
 }
 
-.card a {
+.Card a {
     text-decoration: none;
     color: brown;
 }
 
-.card>a>div {
+.Card >a >div {
     color: brown;
 }
 

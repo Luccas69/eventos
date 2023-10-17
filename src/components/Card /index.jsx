@@ -1,7 +1,7 @@
 import Link from "next/link"
 import styles from './styles.module.css'
 
-export default function Card(id, titulo, dataInicio, dataFim, local, imagem) {
+export default function Card ({id, titulo, dataInicio, dataFim, local, imagem}) {
 
     return (
         <div className={styles.Card}>
@@ -10,7 +10,7 @@ export default function Card(id, titulo, dataInicio, dataFim, local, imagem) {
                 <div>Data Inicio: {dataInicio}</div>
                 <div>Data Fim: {dataFim}</div>
                 <div>Local: {local}</div>
-                <img src={imagem} alt={titulo} />
+                <img src="imagem" alt="uma img qualquer" />
             </Link>
         </div>
     )
