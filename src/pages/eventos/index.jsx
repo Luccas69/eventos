@@ -5,9 +5,9 @@ import Rodape from "@/components/Rodapé ";
 export default function EventosPage() {
   return (
     <div>
-      <Cabecalho/>
-      <Rodape/>
-      <ListCard/>
+      <Cabecalho />
+      <ListCard />
+      <Rodape />
     </div>
   )
 }

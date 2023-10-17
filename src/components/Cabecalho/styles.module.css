@@ -2,10 +2,17 @@
     background-color: beige;
     color: brown;
     display: flex;
-    flex-direction: center;
-    text-align: center;
-    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
     font-family: 'Roboto', sans-serif;
     font-size: 1.5rem;
     padding: 1rem;
+}
+
+.header a {
+    color: brown;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px;
+
 }

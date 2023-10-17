@@ -25,7 +25,7 @@ export default function ListCard() {
                 <Card
                     id={e.id}
                     titulo={e.titulo}
-                    dataIniicio={formatarData(e.dataInicio)}
+                    dataInicio={formatarData(e.dataInicio)}
                     dataFim={formatarData(e.dataFim)}
                     local={e.local}
                     imagem={e.imagem}
