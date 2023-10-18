@@ -22,18 +22,8 @@
     color: brown;
 }
 
-.Card >a >div {
+.Card > a > div {
     color: brown;
-}
-
-.Card button { 
-    color: beige;
-    background-color: brown;
-    border: none;
-    padding: 10px;
-    border-radius: 8px;
-    font-size: 1rem;
-    
 }
 
 .Card img {
