@@ -1,9 +1,12 @@
 .ListCard {
     display: flex;
     flex-wrap: wrap;
-
 }
 
-.ListCard > div {
-    max-width: 15vw;
+.ListCard>div {
+    flex-basis: 20%;
+}
+
+.ListCard>div:nth-child(-n+5) {
+    order: -1;
 }

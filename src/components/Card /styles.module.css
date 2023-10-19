@@ -1,9 +1,8 @@
 .Card {
     margin: 10px;
     padding: 10px;
-    border: 8pix solid brown;
     border-radius: 8px;
-    background-color: beige;
+    background-color: #000000;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
 }
 
@@ -14,19 +13,20 @@
 .cardTitulo {
     font-size: 1.5rem;
     font-weight: bold;
-    color: brown;
+    color: rgb(255, 255, 255);
 }
 
 .Card a {
     text-decoration: none;
-    color: brown;
+    color: rgb(255, 255, 255);
 }
 
-.Card > a > div {
-    color: brown;
+.Card>a>div {
+    color: rgb(255, 255, 255);
 }
 
 .Card img {
     width: 100%;
+    height: 200px;
     border-radius: 8px;
 }
