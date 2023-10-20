@@ -26,14 +26,14 @@ export default function EventosHome() {
         <>
             <Cabecalho />
             <div className={styles.container}>
-                <h1>Nome do evento:<br/> {evento.titulo}</h1>
-                <p>Descrição do Evento:<br/> {evento.descricao}</p>
-                <h2>Data Inicio:{evento.dataInicio}</h2>
-                <h2>Data Fim:{evento.dataFim}</h2>
+                <h1>{evento.titulo}</h1>
+                <img src={evento.imagemg} alt="imagem   " />
+                <p>Descrição do Evento:<br /> {evento.descricao}</p>
+                <h2>Data Inicio: {evento.dataInicio}<br/>
+                Data fim: {evento.dataFim}</h2>
                 <h3>Local: {evento.local}</h3>
-                <img src={evento.imagem} alt="imagem qualquer"  />
             </div>
-          <Rodape />
+            <Rodape />
         </>
     );
 }

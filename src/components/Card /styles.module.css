@@ -3,7 +3,7 @@
     padding: 10px;
     border-radius: 8px;
     background-color: #000000;
-    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 10px 0 #c4b3e1;
 }
 
 .Card:hover {

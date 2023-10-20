@@ -7,7 +7,8 @@
             "dataInicio": "2019-10-01",
             "dataFim": "2019-10-05",
             "local": "IFRO - Campus Vilhena",
-            "imagem": "imagem1.png"
+            "imagem": "imagem1.png",
+            "imagemg": "/imagem1.png"
         },
         {
             "id": 2,
@@ -16,7 +17,8 @@
             "dataInicio": "2023-06-15",
             "dataFim": "2023-06-17",
             "local": "Centro de Convenções da Cidade",
-            "imagem": "imagem2.png"
+            "imagem": "imagem2.png",
+            "imagemg": "/imagem2.png"
         },
         {
             "id": 3,
@@ -25,7 +27,8 @@
             "dataInicio": "2023-09-20",
             "dataFim": "2023-09-23",
             "local": "Centro de Convenções da Cidade",
-            "imagem": "imagem3.png"
+            "imagem": "imagem3.png",
+            "imagemg": "/imagem3.png"
         },
         {
             "id": 4,
@@ -34,7 +37,8 @@
             "dataInicio": "2023-08-10",
             "dataFim": "2023-08-12",
             "local": "Coworking Space",
-            "imagem": "imagem4.png"
+            "imagem": "imagem4.png",
+            "imagemg": "/imagem4.png"
         },
         {
             "id": 5,
@@ -43,7 +47,8 @@
             "dataInicio": "2023-11-05",
             "dataFim": "2023-11-08",
             "local": "Centro de Convenções da Cidade",
-            "imagem": "imagem5.png"
+            "imagem": "imagem5.png",
+            "imagemg": "/imagem5.png"
         },
         {
             "id": 6,
@@ -52,7 +57,8 @@
             "dataInicio": "2023-07-30",
             "dataFim": "2023-08-02",
             "local": "Centro de Convenções da Cidade",
-            "imagem": "imagem6.png"
+            "imagem": "imagem6.png",
+            "imagemg": "/imagem6.png"
         },
         {
             "id": 7,
@@ -61,7 +67,8 @@
             "dataInicio": "2023-04-18",
             "dataFim": "2023-04-20",
             "local": "Centro de Convenções da Cidade",
-            "imagem": "imagem7.png"
+            "imagem": "imagem7.png",
+            "imagemg": "/imagem7.png"
         },
         {
             "id": 8,
@@ -70,7 +77,8 @@
             "dataInicio": "2023-11-18",
             "dataFim": "2023-11-20",
             "local": "Centro de Convenções da Cidade",
-            "imagem": "imagem8.png"
+            "imagem": "imagem8.png",
+            "imagemg": "/imagem8.png"
         },
         {
             "id": 9,
@@ -79,7 +87,8 @@
             "dataInicio": "2023-05-12",
             "dataFim": "2023-05-14",
             "local": "Centro de Convenções da Cidade",
-            "imagem": "imagem9.png"
+            "imagem": "imagem9.png",
+            "imagemg": "/imagem9.png"
         },
         {
             "id": 10,
@@ -88,7 +97,8 @@
             "dataInicio": "2023-10-10",
             "dataFim": "2023-10-12",
             "local": "Centro de Convenções da Cidade",
-            "imagem": "imagem10.png"
+            "imagem": "imagem10.png",
+            "imagemg": "/imagem10.png"
         }
     ]
 }
