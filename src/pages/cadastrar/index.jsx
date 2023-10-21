@@ -10,9 +10,7 @@ export default function Cadastrar() {
             <Cabecalho />
             <div className={styles.container}>
                 <h1>Cadastrar um evento</h1>
-                <p>Crie seu evento</p>
-                <Form />
-                <Input type="text" name="titulo" id="titulo" placeholder="Digite o titulo" />
+                <Form btnText="Cadastrar"/>
             </div>
             <Rodape />
         </>

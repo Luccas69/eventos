@@ -1,0 +1,27 @@
+.form_text {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+
+.form_text label { 
+    margin-bottom: .6em;
+    font-weight: bold;
+}
+
+.form_text textarea {
+    padding: .7em;
+    height: 10rem;
+    border-radius: 10px;
+    border: none;
+    background-color: aliceblue;
+    resize: none;
+}
+
+.form_text input::placeholder {
+    color: gray;
+}
+
+.form_text textarea:focus {
+    outline: none;
+}

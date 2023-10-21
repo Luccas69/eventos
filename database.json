@@ -1,104 +1,104 @@
 {
-    "eventos": [
-        {
-            "id": 1,
-            "titulo": "Congresso de Computação",
-            "descricao": "O Congresso de Computação no IFRO - Campus Vilhena em 2019 foi um evento extraordinário que reuniu mentes brilhantes da área de computação de todo o país. Durante cinco dias intensivos, participantes tiveram a oportunidade de mergulhar profundamente nas últimas tendências, pesquisas inovadoras e práticas de vanguarda em computação. Este evento inspirador proporcionou um ambiente propício para a troca de ideias, networking e aprendizado",
-            "dataInicio": "2019-10-01",
-            "dataFim": "2019-10-05",
-            "local": "IFRO - Campus Vilhena",
-            "imagem": "imagem1.png",
-            "imagemg": "/imagem1.png"
-        },
-        {
-            "id": 2,
-            "titulo": "Seminário de Inteligência Artificial",
-            "descricao": "O Seminário de Inteligência Artificial é um evento de renome que reúne especialistas em IA de todo o mundo. Durante três dias, os participantes podem explorar os avanços mais recentes em aprendizado de máquina, visão computacional e processamento de linguagem natural.",
-            "dataInicio": "2023-06-15",
-            "dataFim": "2023-06-17",
-            "local": "Centro de Convenções da Cidade",
-            "imagem": "imagem2.png",
-            "imagemg": "/imagem2.png"
-        },
-        {
-            "id": 3,
-            "titulo": "Conferência de Cibersegurança",
-            "descricao": "A Conferência de Cibersegurança é o principal evento para profissionais de segurança cibernética. Durante quatro dias, os participantes podem aprimorar suas habilidades e conhecimentos em segurança da informação.",
-            "dataInicio": "2023-09-20",
-            "dataFim": "2023-09-23",
-            "local": "Centro de Convenções da Cidade",
-            "imagem": "imagem3.png",
-            "imagemg": "/imagem3.png"
-        },
-        {
-            "id": 4,
-            "titulo": "Hackathon de Inovação",
-            "descricao": "O Hackathon de Inovação é uma competição intensa onde equipes de desenvolvedores e designers criam soluções inovadoras em um curto período de tempo.",
-            "dataInicio": "2023-08-10",
-            "dataFim": "2023-08-12",
-            "local": "Coworking Space",
-            "imagem": "imagem4.png",
-            "imagemg": "/imagem4.png"
-        },
-        {
-            "id": 5,
-            "titulo": "Conferência de Realidade Virtual",
-            "descricao": "A Conferência de Realidade Virtual é um encontro anual para entusiastas de RV, onde podem explorar as últimas tendências em tecnologia de realidade virtual.",
-            "dataInicio": "2023-11-05",
-            "dataFim": "2023-11-08",
-            "local": "Centro de Convenções da Cidade",
-            "imagem": "imagem5.png",
-            "imagemg": "/imagem5.png"
-        },
-        {
-            "id": 6,
-            "titulo": "Convenção de Desenvolvedores",
-            "descricao": "A Convenção de Desenvolvedores é o lugar onde os programadores se reúnem para compartilhar conhecimento e discutir as últimas tecnologias e ferramentas de desenvolvimento.",
-            "dataInicio": "2023-07-30",
-            "dataFim": "2023-08-02",
-            "local": "Centro de Convenções da Cidade",
-            "imagem": "imagem6.png",
-            "imagemg": "/imagem6.png"
-        },
-        {
-            "id": 7,
-            "titulo": "Simpósio de Big Data",
-            "descricao": "O Simpósio de Big Data reúne especialistas em análise de dados para discutir as melhores práticas e tendências em big data e análise de dados.",
-            "dataInicio": "2023-04-18",
-            "dataFim": "2023-04-20",
-            "local": "Centro de Convenções da Cidade",
-            "imagem": "imagem7.png",
-            "imagemg": "/imagem7.png"
-        },
-        {
-            "id": 8,
-            "titulo": "Conferência de Robótica",
-            "descricao": "A Conferência de Robótica é o lugar onde os entusiastas da robótica se encontram para compartilhar ideias e descobrir as últimas inovações em robótica.",
-            "dataInicio": "2023-11-18",
-            "dataFim": "2023-11-20",
-            "local": "Centro de Convenções da Cidade",
-            "imagem": "imagem8.png",
-            "imagemg": "/imagem8.png"
-        },
-        {
-            "id": 9,
-            "titulo": "Encontro de Design de Interface",
-            "descricao": "O Encontro de Design de Interface reúne designers de interface de usuário para discutir as melhores práticas de design e as últimas tendências em UX e UI.",
-            "dataInicio": "2023-05-12",
-            "dataFim": "2023-05-14",
-            "local": "Centro de Convenções da Cidade",
-            "imagem": "imagem9.png",
-            "imagemg": "/imagem9.png"
-        },
-        {
-            "id": 10,
-            "titulo": "Congresso de Tecnologia",
-            "descricao": "O Congresso de Tecnologia é um evento multidisciplinar que abrange todas as áreas da tecnologia e inovação. É o lugar onde os entusiastas da tecnologia se reúnem para compartilhar ideias e descobrir as últimas inovações.",
-            "dataInicio": "2023-10-10",
-            "dataFim": "2023-10-12",
-            "local": "Centro de Convenções da Cidade",
-            "imagem": "imagem10.png",
-            "imagemg": "/imagem10.png"
-        }
-    ]
+  "eventos": [
+    {
+      "id": 1,
+      "titulo": "Congresso de Computação",
+      "descricao": "O Congresso de Computação no IFRO - Campus Vilhena em 2019 foi um evento extraordinário que reuniu mentes brilhantes da área de computação de todo o país. Durante cinco dias intensivos, participantes tiveram a oportunidade de mergulhar profundamente nas últimas tendências, pesquisas inovadoras e práticas de vanguarda em computação. Este evento inspirador proporcionou um ambiente propício para a troca de ideias, networking e aprendizado",
+      "dataInicio": "2019-10-01",
+      "dataFim": "2019-10-05",
+      "local": "IFRO - Campus Vilhena",
+      "imagem": "imagem1.png",
+      "imagemg": "/imagem1.png"
+    },
+    {
+      "id": 2,
+      "titulo": "Seminário de Inteligência Artificial",
+      "descricao": "O Seminário de Inteligência Artificial é um evento de renome que reúne especialistas em IA de todo o mundo. Durante três dias, os participantes podem explorar os avanços mais recentes em aprendizado de máquina, visão computacional e processamento de linguagem natural.",
+      "dataInicio": "2023-06-15",
+      "dataFim": "2023-06-17",
+      "local": "Centro de Convenções da Cidade",
+      "imagem": "imagem2.png",
+      "imagemg": "/imagem2.png"
+    },
+    {
+      "id": 3,
+      "titulo": "Conferência de Cibersegurança",
+      "descricao": "A Conferência de Cibersegurança é o principal evento para profissionais de segurança cibernética. Durante quatro dias, os participantes podem aprimorar suas habilidades e conhecimentos em segurança da informação.",
+      "dataInicio": "2023-09-20",
+      "dataFim": "2023-09-23",
+      "local": "Centro de Convenções da Cidade",
+      "imagem": "imagem3.png",
+      "imagemg": "/imagem3.png"
+    },
+    {
+      "id": 4,
+      "titulo": "Hackathon de Inovação",
+      "descricao": "O Hackathon de Inovação é uma competição intensa onde equipes de desenvolvedores e designers criam soluções inovadoras em um curto período de tempo.",
+      "dataInicio": "2023-08-10",
+      "dataFim": "2023-08-12",
+      "local": "Coworking Space",
+      "imagem": "imagem4.png",
+      "imagemg": "/imagem4.png"
+    },
+    {
+      "id": 5,
+      "titulo": "Conferência de Realidade Virtual",
+      "descricao": "A Conferência de Realidade Virtual é um encontro anual para entusiastas de RV, onde podem explorar as últimas tendências em tecnologia de realidade virtual.",
+      "dataInicio": "2023-11-05",
+      "dataFim": "2023-11-08",
+      "local": "Centro de Convenções da Cidade",
+      "imagem": "imagem5.png",
+      "imagemg": "/imagem5.png"
+    },
+    {
+      "id": 6,
+      "titulo": "Convenção de Desenvolvedores",
+      "descricao": "A Convenção de Desenvolvedores é o lugar onde os programadores se reúnem para compartilhar conhecimento e discutir as últimas tecnologias e ferramentas de desenvolvimento.",
+      "dataInicio": "2023-07-30",
+      "dataFim": "2023-08-02",
+      "local": "Centro de Convenções da Cidade",
+      "imagem": "imagem6.png",
+      "imagemg": "/imagem6.png"
+    },
+    {
+      "id": 7,
+      "titulo": "Simpósio de Big Data",
+      "descricao": "O Simpósio de Big Data reúne especialistas em análise de dados para discutir as melhores práticas e tendências em big data e análise de dados.",
+      "dataInicio": "2023-04-18",
+      "dataFim": "2023-04-20",
+      "local": "Centro de Convenções da Cidade",
+      "imagem": "imagem7.png",
+      "imagemg": "/imagem7.png"
+    },
+    {
+      "id": 8,
+      "titulo": "Conferência de Robótica",
+      "descricao": "A Conferência de Robótica é o lugar onde os entusiastas da robótica se encontram para compartilhar ideias e descobrir as últimas inovações em robótica.",
+      "dataInicio": "2023-11-18",
+      "dataFim": "2023-11-20",
+      "local": "Centro de Convenções da Cidade",
+      "imagem": "imagem8.png",
+      "imagemg": "/imagem8.png"
+    },
+    {
+      "id": 9,
+      "titulo": "Encontro de Design de Interface",
+      "descricao": "O Encontro de Design de Interface reúne designers de interface de usuário para discutir as melhores práticas de design e as últimas tendências em UX e UI.",
+      "dataInicio": "2023-05-12",
+      "dataFim": "2023-05-14",
+      "local": "Centro de Convenções da Cidade",
+      "imagem": "imagem9.png",
+      "imagemg": "/imagem9.png"
+    },
+    {
+      "id": 10,
+      "titulo": "Congresso de Tecnologia",
+      "descricao": "O Congresso de Tecnologia é um evento multidisciplinar que abrange todas as áreas da tecnologia e inovação. É o lugar onde os entusiastas da tecnologia se reúnem para compartilhar ideias e descobrir as últimas inovações.",
+      "dataInicio": "2023-10-10",
+      "dataFim": "2023-10-12",
+      "local": "Centro de Convenções da Cidade",
+      "imagem": "imagem10.png",
+      "imagemg": "/imagem10.png"
+    }
+  ]
 }

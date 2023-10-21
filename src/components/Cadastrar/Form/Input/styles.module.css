@@ -4,17 +4,37 @@
     margin-bottom: 1em;
 }
 
-.form_control label { 
+.form_control label {
     margin-bottom: .6em;
     font-weight: bold;
 }
 
 .form_control input {
     padding: .7em;
-    border-radius: 0;
+    height: 3rem;
+    border-radius: 10px;
     border: none;
+    background-color: aliceblue;
 }
 
 .form_control input::placeholder {
-    color: #0f0e0e;
+    color: gray;
+}
+
+.form_control input:focus {
+    outline: none;
+}
+
+.form_control input[type="file"] {
+    cursor: pointer;
+}
+
+.form_control input[type="file"]::-webkit-file-upload-button {
+    cursor: pointer;
+    padding: .5em;
+    border-radius: 10px;
+    background-color: gray;
+    color: white;
+    border: none;
+
 }
