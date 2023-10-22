@@ -4,6 +4,7 @@ import { useRouter } from "next/router";
 import styles from '@/styles/id.module.css'
 import Cabecalho from "@/components/Cabecalho";
 import Rodape from "@/components/Rodapé ";
+import Link from "next/link";
 
 export default function EventosHome() {
 
@@ -26,12 +27,14 @@ export default function EventosHome() {
         <>
             <Cabecalho />
             <div className={styles.container}>
+                
                 <h1>{evento.titulo}</h1>
                 <img src={evento.imagemg} alt="imagem" />
                 <p>Descrição do Evento:<br /> {evento.descricao}</p>
                 <h2>Data Inicio: {evento.dataInicio}<br/>
                 Data fim: {evento.dataFim}</h2>
                 <h3>Local: {evento.local}</h3>
+                <Link href={`/eventos/alterar/${evento.id}`}>Alterar Evento</Link>
             </div>
             <Rodape />
         </>

@@ -99,15 +99,6 @@
       "local": "Centro de Convenções da Cidade",
       "imagem": "imagem10.png",
       "imagemg": "/imagem10.png"
-    },
-    {
-      "titulo": "Milestone 2",
-      "descricao": "seria um dia de muitas apresentações, referentes aos trabalhos ",
-      "dataInicio": "2023-10-03",
-      "dataFim": "2023-10-13",
-      "local": "IFRO - Campus Vilhena ",
-      "imagem": "C:\\fakepath\\Captura de tela de 2023-09-03 14-48-50.png",
-      "id": 11
     }
   ]
 }
