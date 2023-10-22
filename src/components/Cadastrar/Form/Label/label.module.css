@@ -1,0 +1,6 @@
+.label {
+    display: flex;
+    margin-bottom: .6em;
+    font-weight: bold;
+    font-size: 1.2em;
+}

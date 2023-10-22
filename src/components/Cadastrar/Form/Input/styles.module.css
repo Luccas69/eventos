@@ -4,11 +4,6 @@
     margin-bottom: 1em;
 }
 
-.form_control label {
-    margin-bottom: .6em;
-    font-weight: bold;
-}
-
 .form_control input {
     padding: .7em;
     height: 3rem;

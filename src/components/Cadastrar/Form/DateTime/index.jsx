@@ -1,15 +1,15 @@
-import styles from './styles.module.css';
+import styles from "./date.module.css"
 
-export default function Input({ type, name, placeholder, value, onChange}) {
+export default function DateTime({ type, name, placeholder, onChange, value }) {
     return (
-        <div className={styles.form_control}>
+        <div className={styles.date}>
             <input
                 type={type}
                 name={name}
                 id={name}
                 placeholder={placeholder}
-                value={value}
                 onChange={onChange}
+                value={value}
             />
         </div>
     )

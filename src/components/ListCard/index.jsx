@@ -10,7 +10,7 @@ export default function ListCard() {
 
     useEffect(() => {
 
-        axios.get('http://localhost:3000/eventos')
+        axios.get('http://localhost:3001/eventos')
             .then(resultado => setEventos(resultado.data))
     }, [])
 

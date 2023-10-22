@@ -1,0 +1,21 @@
+.date {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+
+.date input {
+    padding: .7em;
+    height: 3rem;
+    border-radius: 10px;
+    border: none;
+    background-color: aliceblue;
+}
+
+.date input::placeholder {
+    color: gray;
+}
+
+.date input:focus {
+    outline: none;
+}

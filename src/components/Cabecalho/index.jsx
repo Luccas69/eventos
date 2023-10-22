@@ -10,7 +10,7 @@ export default function Cabecalho() {
             </div>
             <div>
                 <Link href="/">Home</Link>
-                <Link href="/eventos">Eventos</Link>
+                <Link href="/eventos">Cadastrar</Link>
                 <Link href="/contato">Contato</Link>
             </div>
         </header>
