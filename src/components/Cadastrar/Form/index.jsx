@@ -20,6 +20,21 @@ export default function Form({ btnText }) {
         imagem: '',
     })
 
+    function InserirImagem(e) {
+        const file = e.target.files[0]
+
+        if (file) {
+            const reader = new FileReader()
+
+            reader.onload = function (e) {
+                const imagemDataUrl = e.target.result
+                setEvento({ ...evento, imagem: imagemDataUrl })
+            };
+            reader.readAsDataURL(file)
+        }
+    }
+
+
     function inserirEvento(e) {
         e.preventDefault()
         console.log(evento)
@@ -46,6 +61,7 @@ export default function Form({ btnText }) {
                 toast.error('Ocorreu um erro ao cadastrar o evento!')
             });
     }
+
 
     return (
         <>
@@ -103,11 +119,11 @@ export default function Form({ btnText }) {
                     text="Imagem do evento"
                     name="imagem"
                     placeholder="Insira a imagem do evento"
-                    value={evento.imagem}
-                    onChange={(e) => setEvento({ ...evento, imagem: e.target.value })}
+                    accept="image/*"
+                    onChange={(e) => InserirImagem(e)}
                 />
                 <SubmitButton
-                    text={btnText}/>
+                    text={btnText} />
             </form >
         </>
     )
