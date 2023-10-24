@@ -11,7 +11,6 @@ export default function Cabecalho() {
             <div>
                 <Link href="/">Home</Link>
                 <Link href="/eventos">Cadastrar</Link>
-                <Link href="/contato">Contato</Link>
             </div>
         </header>
     )
