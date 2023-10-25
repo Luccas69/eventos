@@ -72,7 +72,6 @@ export default function AlterarPage() {
             <ToastContainer />
             <Cabecalho />
             <div className={styles.container}>
-                <h1>Alterando o evento</h1>
                 <form onSubmit={handleSubmit}>
                     <Label text="Titulo do evento" name="titulo" />
                     <Input type="text" name="titulo" value={evento.titulo} onChange={handleInputChange} />
