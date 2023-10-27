@@ -29,7 +29,7 @@ export default function EventosHome() {
             <Cabecalho />
             <div className={styles.container}>
                 <h1>{evento.titulo}</h1>
-                <Image src={evento.imagem} alt="imagem" width={500} height={500} />
+                <Image src={evento.imagem} alt="imagem" width={500} height={500}/>
                 <p>Descrição do Evento:<br /> {evento.descricao}</p>
                 <h2>Data Inicio: {evento.dataInicio}<br />
                     Data fim: {evento.dataFim}</h2>
