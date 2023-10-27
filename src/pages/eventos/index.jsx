@@ -1,7 +1,7 @@
 import Cabecalho from "@/components/Cabecalho";
 import Form from "@/components/Cadastrar/Form";
 import Rodape from "@/components/Rodapé ";
-import styles from '@/styles/Cadastrar.module.css'
+import styles from '@/styles/Formulario.module.css'
 
 export default function Cadastrar() {
 
